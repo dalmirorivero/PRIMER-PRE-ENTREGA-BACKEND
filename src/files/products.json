@@ -1,0 +1,202 @@
+[
+	{
+		"title": "Mickey Mouse",
+		"description": "Peluche",
+		"code": "123",
+		"price": 20.99,
+		"stock": 5,
+		"category": "Disney",
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Lámpara Mickey",
+		"description": "Lámpara de mesa",
+		"code": "001",
+		"price": 39.99,
+		"stock": 10,
+		"category": "Disney",
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "Minnie Cup",
+		"description": "Taza de cerámica",
+		"code": "002",
+		"price": 12.99,
+		"stock": 8,
+		"category": "Disney",
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "Puzzle Disney",
+		"description": "Rompecabezas de 100 piezas",
+		"code": "003",
+		"price": 15.99,
+		"stock": 15,
+		"category": "Disney",
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "Peluche Goofy",
+		"description": "Peluche suave de Goofy",
+		"code": "004",
+		"price": 19.99,
+		"stock": 12,
+		"category": "Disney",
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "Pluma Minnie",
+		"description": "Pluma con diseño de Minnie",
+		"code": "005",
+		"price": 5.99,
+		"stock": 20,
+		"category": "Disney",
+		"status": true,
+		"id": 6
+	},
+	{
+		"title": "Estuche Mickey",
+		"description": "Estuche para lápices con estampado de Mickey",
+		"code": "006",
+		"price": 9.99,
+		"stock": 18,
+		"category": "Disney",
+		"status": true,
+		"id": 7
+	},
+	{
+		"title": "Camiseta Disney",
+		"description": "Camiseta unisex con estampado de personajes Disney",
+		"code": "007",
+		"price": 29.99,
+		"stock": 7,
+		"category": "Disney",
+		"status": true,
+		"id": 8
+	},
+	{
+		"title": "Calcetines Minnie",
+		"description": "Calcetines con diseño de Minnie",
+		"code": "008",
+		"price": 7.99,
+		"stock": 25,
+		"category": "Disney",
+		"status": true,
+		"id": 9
+	},
+	{
+		"title": "Libro de cuentos Disney",
+		"description": "Colección de cuentos clásicos de Disney",
+		"code": "009",
+		"price": 14.99,
+		"stock": 9,
+		"category": "Disney",
+		"status": true,
+		"id": 10
+	},
+	{
+		"title": "Pijama Mickey",
+		"description": "Pijama de algodón con estampado de Mickey",
+		"code": "010",
+		"price": 34.99,
+		"stock": 6,
+		"category": "Disney",
+		"status": true,
+		"id": 11
+	},
+	{
+		"title": "Bolsa de playa Minnie",
+		"description": "Bolsa de playa con diseño de Minnie",
+		"code": "011",
+		"price": 19.99,
+		"stock": 11,
+		"category": "Disney",
+		"status": true,
+		"id": 12
+	},
+	{
+		"title": "Rompecabezas Disney",
+		"description": "Rompecabezas de 500 piezas con personajes Disney",
+		"code": "012",
+		"price": 22.99,
+		"stock": 14,
+		"category": "Disney",
+		"status": true,
+		"id": 13
+	},
+	{
+		"title": "Figura de acción Goofy",
+		"description": "Figura de acción articulada de Goofy",
+		"code": "013",
+		"price": 16.99,
+		"stock": 13,
+		"category": "Disney",
+		"status": true,
+		"id": 14
+	},
+	{
+		"title": "Vaso Minnie",
+		"description": "Vaso de plástico con diseño de Minnie",
+		"code": "014",
+		"price": 8.99,
+		"stock": 19,
+		"category": "Disney",
+		"status": true,
+		"id": 15
+	},
+	{
+		"title": "Mochila Mickey",
+		"description": "Mochila escolar con estampado de Mickey",
+		"code": "015",
+		"price": 27.99,
+		"stock": 4,
+		"category": "Disney",
+		"status": true,
+		"id": 16
+	},
+	{
+		"title": "Peluche Daisy",
+		"description": "Peluche suave de Daisy",
+		"code": "016",
+		"price": 17.99,
+		"stock": 16,
+		"category": "Disney",
+		"status": true,
+		"id": 17
+	},
+	{
+		"title": "Cuaderno Disney",
+		"description": "Cuaderno con tapa dura y diseño de personajes Disney",
+		"code": "017",
+		"price": 6.99,
+		"stock": 22,
+		"category": "Disney",
+		"status": true,
+		"id": 18
+	},
+	{
+		"title": "Gorra Mickey",
+		"description": "Gorra ajustable con bordado de Mickey",
+		"code": "018",
+		"price": 12.99,
+		"stock": 17,
+		"category": "Disney",
+		"status": true,
+		"id": 19
+	},
+	{
+		"title": "Set de pegatinas Disney",
+		"description": "Set de pegatinas con temática de personajes Disney",
+		"code": "019",
+		"price": 4.99,
+		"stock": 30,
+		"category": "Disney",
+		"status": true,
+		"id": 20
+	}
+]
